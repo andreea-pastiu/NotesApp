@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qe8GRsD9W0Y1JgaMNHMlIc8FfOgQllVt0V6/5aXtTqUf3hBKDyG+7idz9nq514WhbrIRJ/8tq4CcDUg5OHw0ug==",
+  "dgSpecHash": "D1vy53wpetUh5zOoRY5Bh+xiGh3r9KDznuTYWCfEYQKzUH739uOIZfF2FGC9bptbgvmLLBPqHSq2RQ4h3SOc+Q==",
   "success": true,
-  "projectFilePath": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\Notes\\Notes.Android\\Notes.Android.csproj",
+  "projectFilePath": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\NotesApp\\Notes\\Notes.Android\\Notes.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andreea\\.nuget\\packages\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Users\\Andreea\\.nuget\\packages\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

@@ -637,11 +637,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\Notes\\Notes\\Notes.csproj",
+      "projectUniqueName": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\NotesApp\\Notes\\Notes\\Notes.csproj",
       "projectName": "Notes",
-      "projectPath": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\Notes\\Notes\\Notes.csproj",
+      "projectPath": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\NotesApp\\Notes\\Notes\\Notes.csproj",
       "packagesPath": "C:\\Users\\Andreea\\.nuget\\packages\\",
-      "outputPath": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\Notes\\Notes\\obj\\",
+      "outputPath": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\NotesApp\\Notes\\Notes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

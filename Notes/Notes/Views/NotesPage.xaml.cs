@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using Xamarin.Forms;
+using Xamarin.Essentials;
 
 namespace Notes.Views
 {
@@ -33,6 +34,14 @@ namespace Notes.Views
                 File.Delete(_fileName);
             }
             editor.Text = string.Empty;
+        }
+        async void ShareText(object sender, EventArgs e)
+        {
+            await Share.RequestAsync(new ShareTextRequest
+            {
+                Text = editor.Text,
+                Title = "Share Note"
+            });
         }
     }
 }

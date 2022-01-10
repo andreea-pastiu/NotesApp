@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
+      "projectUniqueName": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\NotesApp\\Notes\\Notes.iOS\\Notes.iOS.csproj",
       "projectName": "Notes.iOS",
-      "projectPath": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
+      "projectPath": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\NotesApp\\Notes\\Notes.iOS\\Notes.iOS.csproj",
       "packagesPath": "C:\\Users\\Andreea\\.nuget\\packages\\",
-      "outputPath": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\Notes\\Notes.iOS\\obj\\",
+      "outputPath": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\NotesApp\\Notes\\Notes.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1012,8 +1012,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\Notes\\Notes\\Notes.csproj": {
-              "projectPath": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\Notes\\Notes\\Notes.csproj"
+            "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\NotesApp\\Notes\\Notes\\Notes.csproj": {
+              "projectPath": "D:\\documente scoala\\Facultate\\Anul 3\\SCS\\Notes\\NotesApp\\Notes\\Notes\\Notes.csproj"
             }
           }
         }
