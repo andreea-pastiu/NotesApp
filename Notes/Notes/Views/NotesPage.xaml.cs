@@ -43,5 +43,17 @@ namespace Notes.Views
                 Title = "Share Note"
             });
         }
+        async void OnPickPhotoButtonClicked(object sender, EventArgs e)
+        {
+            (sender as Button).IsEnabled = false;
+
+            Stream stream = await DependencyService.Get<IPhotoPickerService>().GetImageStreamAsync();
+            if (stream != null)
+            {
+                image.Source = ImageSource.FromStream(() => stream);
+            }
+
+            (sender as Button).IsEnabled = true;
+        }
     }
 }
